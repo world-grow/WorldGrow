@@ -1,11 +1,6 @@
 <div align="center">
   <img src="assets/merge.jpeg" alt="WorldGrow merge" height="150">
   <h1>WorldGrow: Generating Infinite 3D World</h1>
-  <p>
-    <a href="https://world-grow.github.io/">Project Page</a> •
-    <a href="https://arxiv.org/abs/2510.21682">arXiv</a> •
-    <a href="#citation">Citation</a>
-  </p>
 
   <p>
     <a href="https://world-grow.github.io/">
@@ -47,8 +42,7 @@
 
 We propose **WorldGrow** — a generative method which creates **infinite EXPLICIT 3D** worlds, an alternative to the extensible, realistic, interactive world simulator.
 
-<!-- ![Teaser](assets/teaser_image.png) -->
-Teaser is under constructed.
+[![Watch the video](https://img.youtube.com/vi/blVXMwGHQO4/0.jpg)](https://www.youtube.com/watch?v=blVXMwGHQO4)
 
 ## Overview
 
