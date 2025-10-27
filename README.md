@@ -3,7 +3,7 @@
   <h1>WorldGrow: Generating Infinite 3D World</h1>
   <p>
     <a href="https://world-grow.github.io/">Project Page</a> •
-    <a href="https://arxiv.org/abs/XXXX.XXXXX">arXiv</a> •
+    <a href="https://arxiv.org/abs/2510.21682">arXiv</a> •
     <a href="#citation">Citation</a>
   </p>
 
@@ -12,8 +12,8 @@
     <a href="https://world-grow.github.io/">
       <img src="https://img.shields.io/badge/Project%20Page-online-brightgreen.svg" alt="Project Page">
     </a>
-    <a href="https://arxiv.org/abs/XXXX.XXXXX">
-      <img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg" alt="arXiv">
+    <a href="https://arxiv.org/abs/2510.21682">
+      <img src="https://img.shields.io/badge/arXiv-2510.21682-b31b1b.svg" alt="arXiv">
     </a>
     <a href="https://huggingface.co/datasets/your-org/worldgrow">
       <img src="https://img.shields.io/badge/Data-HuggingFace-yellow.svg" alt="Dataset">
@@ -41,7 +41,7 @@
   <sup>1</sup>Shanghai Jiao Tong University 
   <sup>2</sup>Huawei 
   <sup>3</sup>Huazhong University of Science and Technology<br/>
-  <sup>*</sup>Equal contribution <sup>✉</sup>Corresponding author
+  <sup>*</sup>Equal contribution   <sup>✉</sup>Corresponding author
 </p>
 
 ---
@@ -57,7 +57,7 @@ Teaser is under constructed.
 
 ## News
 
-- **2025-10-24** — 🚧 Repository initialized. The codebase is being prepared for public release; pretrained weights and full training/inference pipelines are planned.
+- **2025-10-27** — 🚧 Paper released and repository initialized. The code is being prepared for public release; pretrained weights and full training/inference pipelines are planned.
 
 
 
@@ -77,9 +77,9 @@ Teaser is under constructed.
 ## Results
 
 * **Gallery**: diverse generated scenes at multiple scales.
-* **Large-scale example**: a (19\times39) indoor layout (~1,800 m²) with reconstructed mesh and textured rendering.
+* **Large-scale example**: a 19x39 indoor world (~1,800 m²) with reconstructed mesh and textured rendering.
 
-More figures, videos, and metrics are available on the **[project page](https://world-grow.github.io/)**.
+Please visit the **[project page](https://world-grow.github.io/)** for more figures, videos, and metrics.
 
 
 ## License
@@ -92,7 +92,7 @@ TBD (to be finalized before full code release).
 @article{worldgrow2025,
   title   = {WorldGrow: Generating Infinite 3D World},
   author  = {Li, Sikuang and Yang, Chen and Fang, Jiemin and Yi, Taoran and Lu, Jia and Cen, Jiazhong and Xie, Lingxi and Shen, Wei and Tian, Qi},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  journal = {arXiv preprint arXiv:2510.21682},
   year    = {2025}
 }
 ```
