@@ -42,7 +42,11 @@
 
 We propose **WorldGrow** — a generative method which creates **infinite EXPLICIT 3D** worlds, an alternative to the extensible, realistic, interactive world simulator.
 
-[![Watch the video](assets/youtube.png)](https://www.youtube.com/watch?v=blVXMwGHQO4)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=blVXMwGHQO4">
+    <img src="assets/youtube.png" alt="Watch the video" style="width:75%; margin:0 auto;" />
+  </a>
+</div>
 
 ## Overview
 
