@@ -7,7 +7,6 @@
     <a href="#citation">Citation</a>
   </p>
 
-  <!-- Badges（也在同一个居中容器里） -->
   <p>
     <a href="https://world-grow.github.io/">
       <img src="https://img.shields.io/badge/Project%20Page-online-brightgreen.svg" alt="Project Page">
@@ -45,6 +44,8 @@
 </p>
 
 ---
+
+We propose **WorldGrow** — a generative method which creates **infinite EXPLICIT 3D** worlds, an alternative to the extensible, realistic, interactive world simulator.
 
 <!-- ![Teaser](assets/teaser_image.png) -->
 Teaser is under constructed.
