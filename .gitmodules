@@ -1,0 +1,9 @@
+[submodule "trellis/representations/mesh/flexicubes"]
+	path = trellis/representations/mesh/flexicubes
+	url = https://github.com/MaxtirError/FlexiCubes.git
+[submodule "submodules/cumm"]
+	path = submodules/cumm
+	url = https://github.com/chensjtu/cumm-int32.git
+[submodule "submodules/spconv"]
+	path = submodules/spconv
+	url = https://github.com/chensjtu/spconv-int32.git
