@@ -7,6 +7,9 @@
     <a href="https://world-grow.github.io/">
       <img src="https://img.shields.io/badge/Project%20Page-online-brightgreen.svg" alt="Project Page">
     </a>
+    <a href="https://world-grow.github.io/gallery.html">
+      <img src="https://img.shields.io/badge/Gallery-online-dodgerblue.svg" alt="Gallery">
+    </a>
     <a href="https://arxiv.org/abs/2510.21682">
       <img src='https://img.shields.io/badge/arXiv-2510.21682-b31b1b?logo=arxiv&logoColor=white' alt='arXiv'>
     </a>
@@ -54,6 +57,7 @@ We propose **WorldGrow** — a generative method which creates **infinite EXPLIC
 
 ## News
 
+- **2025-12-03** — 🖼️ We have launched an online [3DGS Gallery](https://world-grow.github.io/gallery.html) for interactive viewing.
 - **2025-11-14** — 🚀 The inference code and [pretrained weights](https://huggingface.co/UranusITS/WorldGrow) are now available.
 - **2025-10-27** — 🚧 Paper released and repository initialized. The code is being prepared for public release; pretrained weights and full training/inference pipelines are planned.
 
