@@ -114,7 +114,7 @@ You can modify the `world_size` variable to generate larger or smaller worlds. Y
 
 ## Results
 
-- **Gallery**: diverse generated scenes at multiple scales.
+- **[Gallery](https://world-grow.github.io/gallery.html)**: Interactive demos with many diverse generated scenes at multiple scales.
 - **Large-scale example**: a 19x39 indoor world (~1,800 m²) with reconstructed mesh and textured rendering.
 
 Please visit the **[project page](https://world-grow.github.io/)** for more figures, videos, and metrics.
